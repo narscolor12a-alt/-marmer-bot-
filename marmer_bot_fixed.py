@@ -42,7 +42,7 @@ class Config:
     """إعدادات البوت"""
 
     # ⚠️ ضع التوكن هنا من @BotFather
-    TOKEN = "YOUR_BOT_TOKEN_HERE"
+    TOKEN = "8888819190:AAE8DsYXq-HSblEB7fRVSmUENXSwkQVqpjg"
 
     # معلومات المطور
     DEVELOPER_USERNAME = "@R_DD_9"
